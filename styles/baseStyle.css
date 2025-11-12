@@ -18,3 +18,11 @@ body {
   text-align: center;
   color: cornflowerblue;
 }
+
+.intro-text {
+  margin: 16px;
+  background-color: antiquewhite;
+  color: cornflowerblue;
+  padding: 24px;
+  font-size: 2rem;
+}
